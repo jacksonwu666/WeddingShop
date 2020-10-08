@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+/* CSS Document */
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,form,img,dl,dt,dd,table,th,td,blockquote,fieldset,div,strong,label,em{margin:0;padding:0;border:0;}
+ul,ol,li{list-style:none;}
+input,button{margin:0;font-size:12px;vertical-align:middle;}
+body{font-size:12px;font-family:Arial, Helvetica, sans-serif;  text-align:center; margin:0 auto;}
+table{border-collapse:collapse;border-spacing:0;}
+
+
+#container{  width:1004px; text-align:left; margin:0 auto; }
+a{color:#333;text-decoration:none;}
+a:hover{color:#ef9b11; text-decoration:underline;}
+
+.box-163css{margin:20px auto; WIDTH: 980px;}
+.menu {Z-INDEX: 9999; BACKGROUND: url(../images/bg01.gif) repeat-x; float:left; WIDTH: 980px; POSITION: relative}
+.menu UL {FLOAT: left; WIDTH: 980px; LIST-STYLE-TYPE: none}
+.menu LI {DISPLAY: inline; FLOAT: left; HEIGHT: 35px; TEXT-ALIGN: center}
+.menu LI.t_right {RIGHT: 0px; POSITION: absolute; TOP: 0px}
+.menu LI A {PADDING-RIGHT: 9px; PADDING-LEFT: 9px; FONT-SIZE: 14px; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #fff; LINE-HEIGHT: 35px; PADDING-TOP: 0px; FONT-FAMILY: "΢ź"; HEIGHT: 35px; TEXT-DECORATION: none}
+.menu LI A:hover {BACKGROUND: #e34c7f; COLOR: #fff; TEXT-DECORATION: none}
+.menu LI A.on {PADDING-RIGHT: 9px; PADDING-LEFT: 9px; FONT-SIZE: 14px; BACKGROUND: #e34c7f; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #fff; PADDING-TOP: 0px; FONT-FAMILY: "΢ź"; HEIGHT: 35px; TEXT-DECORATION: none}
+.menu LI A.on:hover {BACKGROUND: #e34c7f; COLOR: #fff; TEXT-DECORATION: none}
+.menu LI A.onh {PADDING-RIGHT: 9px; PADDING-LEFT: 9px; BACKGROUND: #e34c7f; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #fff; PADDING-TOP: 0px; HEIGHT: 35px}
+.menu LI A.hs {PADDING-RIGHT: 33px; PADDING-LEFT: 10px; BACKGROUND: #9b0f1c; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #ffffff; PADDING-TOP: 0px; HEIGHT: 35px}
+.topnav LI {Z-INDEX: 999; POSITION: relative}
+DIV.subnav {BORDER-RIGHT: #dc1f5f 1px solid; PADDING-RIGHT: 2px; DISPLAY: none; PADDING-LEFT: 2px; BACKGROUND: #fff; LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 2px; BORDER-LEFT: #dc1f5f 1px solid; WIDTH: 231px; PADDING-TOP: 2px; BORDER-BOTTOM: #dc1f5f 1px solid; LIST-STYLE-TYPE: none; POSITION: absolute; TOP: 35px}
+UL.navlist {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 10px 0px; WIDTH: 115px; PADDING-TOP: 0px}
+.zx {BORDER-RIGHT: #cccccc 1px dashed}
+.navtm {FLOAT: left}
+.navtm A:link {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 100%}
+.navtm A:visited {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 100%}
+.navtm A:hover {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 100%}
+.navtm A:active {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 100%}
+UL.navlist LI {CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 115px; PADDING-TOP: 0px; HEIGHT: 25px}
+UL.navlist A {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 10px; WIDTH: 95px; COLOR: #000000; LINE-HEIGHT: 20px; PADDING-TOP: 0px; HEIGHT: 20px}
+UL.navlist A:hover {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND: #dfdfdf; PADDING-BOTTOM: 0px; COLOR: #000000; PADDING-TOP: 0px}
+
